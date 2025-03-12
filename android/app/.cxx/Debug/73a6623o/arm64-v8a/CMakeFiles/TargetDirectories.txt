@@ -1,0 +1,2 @@
+C:/Users/User/Desktop/calculator_app/android/app/.cxx/Debug/73a6623o/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/calculator_app/android/app/.cxx/Debug/73a6623o/arm64-v8a/CMakeFiles/rebuild_cache.dir
