@@ -1,41 +1,14 @@
-# Flutter/Dart/Pub-related
-.dart_tool/
-.packages
-pubspec.lock
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
 
-# Android
-.idea/
-android/.gradle/
-android/app/build/
-android/build/
-
-# iOS
-ios/Flutter/.pub-cache/
-ios/Flutter/Flutter.podspec
-ios/Pods/
-ios/Runner.xcworkspace/
-
-# macOS
-macos/Flutter/.pub-cache/
-macos/Flutter/Flutter.podspec
-macos/Pods/
-
-# Windows
-windows/Flutter/.pub-cache/
-windows/Flutter/Flutter.podspec
-windows/Pods/
-
-# VS Code settings
-.vscode/
-
-# Misc
-*.log
-*.lock
-*.tmp
-*.swp
-
-# IntelliJ
-.idea/
-
-# Android Studio
-.android/
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
